@@ -1,0 +1,132 @@
+{
+  "name": "Nations Prayer and Fasting Network (NAPFAN)",
+  "domain": "nationspray.org",
+  "slug": "napfan",
+  "wpApiUrl": "https://thetopachievers.org/wp-json/wp/v2",
+  "tagline": "Standing in the Gap for Nations",
+  "description": "Nations Prayer and Fasting Network (NAPFAN) is a Christian prayer and fasting movement committed to raising believers to stand in the gap for individuals, communities, and nations.",
+  "heroEyebrow": "NATIONS PRAYER AND FASTING NETWORK",
+  "heroTitle": "Nations Prayer and Fasting Network",
+  "heroVideoUrl": "https://assets.mixkit.co/videos/41401/41401-720.mp4",
+  "heroDescription": "Mobilising and encouraging believers in committed prayer, fasting, and intercession for individuals, families, communities, churches, and nations.",
+  "heroMicrocopy": "PRAYER · FASTING · INTERCESSION · NATIONS",
+  "heroRoles": ["Intercessor", "Watchman", "Intercessor for Nations", "Believer in Prayer"],
+  "heroSentence": "A faithful {role} stands in the gap.",
+  "nav": [
+    { "label": "Home", "href": "/" },
+    { "label": "About", "href": "/about/" },
+    { "label": "21 Day Prayer", "href": "/prayer-programme/" },
+    { "label": "Articles", "href": "/blog/" },
+    { "label": "Connect", "href": "/contact/" }
+  ],
+  "social": [
+    { "label": "Twitter", "href": "https://twitter.com" },
+    { "label": "Facebook", "href": "https://facebook.com" },
+    { "label": "YouTube", "href": "https://youtube.com" }
+  ],
+  "contactEmail": "",
+  "defaultOgImage": "/og-default.jpg",
+  "stats": [
+    { "value": "32nd", "label": "Annual 21-Day Edition (1994–2026)" },
+    { "value": "1994", "label": "Year Foundation Established" },
+    { "value": "21", "label": "Days of Fasting & Prayer" }
+  ],
+  "mission": {
+    "label": "OUR MANDATE & CALLING",
+    "heading": "Mobilising believers to stand in the gap for the nations.",
+    "paragraphs": [
+      "Nations Prayer and Fasting Network (NAPFAN) is a Christian ministry movement committed to raising, equipping, and uniting believers in devoted prayer, fasting, and spiritual vigilance for individuals, families, communities, churches, and nations.",
+      "At the core of our mandate is the biblical conviction of Ezekiel 22:30: God seeks for believers who will make up the hedge and stand before Him in intercession. When the Church unites with sincere humility and spiritual consecration, God heals the land and releases lasting transformation.",
+      "Through strategic prayer gatherings, discipleship teachings, and our annual 21 Day Fasting and Prayer programme, NAPFAN empowers believers across denominations and borders to walk in prevailing prayer authority."
+    ],
+    "ctaText": "Learn More About Our Mandate",
+    "ctaHref": "/about/"
+  },
+  "editorialStatement": {
+    "statement": "Standing before God in intercession for our generation.",
+    "subtext": "Prayer · Fasting · Unity · National Transformation"
+  },
+  "categoriesSection": {
+    "label": "AREAS OF FOCUS & TEACHING",
+    "heading": "Principles of prayer, fasting, and intercession.",
+    "intro": "Explore teachings, biblical reflections, and spiritual resources on persistent prayer, fasting, standing in the gap, and seeing nations transformed.",
+    "promptDesktop": "EXPLORE A TOPIC",
+    "promptMobile": "Swipe to explore"
+  },
+  "categoryDescriptions": {
+    "intercession": "Teachings and insights on standing in the gap before God for communities and nations.",
+    "prayer": "Practical guidance, biblical foundations, and encouragement for daily prayer.",
+    "unity": "Believers coming together across borders and traditions around persistent intercession.",
+    "discipleship": "Nurturing spiritual maturity, godly character, and faithful Christian leadership.",
+    "inspiring-articles": "Stories and testimonies of faith, perseverance, and God’s faithfulness in challenging times.",
+    "uncategorized": "Spiritual perspectives, devotionals, and ministry reflections."
+  },
+  "tickerWords": [
+    "PRAYER",
+    "FASTING",
+    "INTERCESSION",
+    "UNITY",
+    "NATIONS",
+    "CHRISTIAN SERVICE",
+    "STANDING IN THE GAP"
+  ],
+  "featuredArchive": {
+    "label": "RECENT WRITINGS & ARTICLES",
+    "heading": "Spiritual insights and teachings.",
+    "intro": "Discover recent articles, devotionals, and reflections from NAPFAN and our ministry network to deepen your prayer walk and spiritual vitality."
+  },
+  "founder": {
+    "label": "LEADERSHIP & MINISTRY STORY",
+    "name": "Pastor Emmanuel Olu Falodun",
+    "title": "General Overseer, Christ Salvation Victory Mission International | President – Nations Prayer And Fasting Network (NAPFAN)",
+    "paragraphs": [
+      "Pastor Emmanuel Olu Falodun is the President of Nations Prayer and Fasting Network (NAPFAN) and the General Overseer of Christ Salvation Victory Mission International.",
+      "For more than three decades—beginning in 1994 with the landmark All Believers 21 Day Fasting and Prayer—he has carried an apostolic and prophetic mandate to call the body of Christ into deep consecration, fervent prayer, and strategic intercession for communities and nations."
+    ],
+    "photo": "/founder.jpg",
+    "quote": "When believers take their place in genuine intercession and fasting, they participate directly in what God is doing across nations.",
+    "stripText": "Books & Resources on Prayer, Fasting & Leadership",
+    "booksUrl": "https://www.amazon.com/stores/author/B00AYLJTSY"
+  },
+  "network": [
+    {
+      "name": "Christ Salvation Victory Mission International",
+      "description": "Sharing the uncompromised Gospel of Jesus Christ and discipling believers into spiritual maturity.",
+      "href": "https://christsalvation.org",
+      "cta": "Visit"
+    },
+    {
+      "name": "Million Plus Intercessors",
+      "description": "Mobilising believers in dedicated prayer and intercession for families, communities, and nations.",
+      "href": "https://millionplusintercessors.org",
+      "cta": "Visit"
+    },
+    {
+      "name": "Faith Heroes Africa",
+      "description": "Documenting the moves of God, testimonies, and timeless legacies of faith across the African continent.",
+      "href": "https://faithheroesafrica.org",
+      "cta": "Visit"
+    },
+    {
+      "name": "The Top Achievers Network",
+      "description": "Inspiring, equipping, and raising a new generation of leaders through impactful resources and mentorship.",
+      "href": "https://thetopachievers.org/",
+      "cta": "Visit"
+    },
+    {
+      "name": "Online Radio",
+      "description": "Broadcasting inspiring Christian messages, worship, and leadership teaching across the globe.",
+      "href": "https://radio.thetopachievers.org/",
+      "cta": "Listen"
+    },
+    {
+      "name": "Power For Exploits",
+      "description": "Empowering believers with spiritual insight, biblical leadership principles, and ministry resources.",
+      "href": "https://powerforexploits.org",
+      "cta": "Visit"
+    }
+  ],
+  "newsletter": {
+    "formAction": ""
+  }
+}

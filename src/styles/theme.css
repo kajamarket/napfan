@@ -1,0 +1,47 @@
+/* Theme CSS Variables: Drift-inspired Cream & Dark Palette */
+:root {
+  --cream-bg: #F6E4CF;
+  --cream-dark: #321C04;
+  --cream-light: #FFF9F2;
+  --cream-muted: #D9C4AA;
+  --cream-muted-hover: #CEBA9E;
+  --dark-hover: #1F1003;
+
+  --bg: 0 0% 100%;
+  --surface: 35 68% 97%;
+  --text: 33 85% 11%;
+  --heading: 33 85% 11%;
+  --muted: 33 25% 40%;
+  --stroke: 34 38% 76%;
+  --accent: 33 85% 11%;
+}
+
+/* Base transitions */
+html,
+body,
+header,
+nav,
+main,
+section,
+footer,
+article {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Focus styles */
+:focus-visible {
+  outline: 2px solid #321C04;
+  outline-offset: 2px;
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
