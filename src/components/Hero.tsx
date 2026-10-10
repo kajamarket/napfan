@@ -104,7 +104,7 @@ export const Hero: React.FC<HeroProps> = () => {
 
           {/* Prayer request note */}
           <p className="text-white/60 text-xs mt-3">
-            Send your prayer request to{' '}
+            You can also send your prayer request directly to{' '}
             <a
               href="mailto:powerforexploits@gmail.com"
               className="underline hover:text-white/90 transition-colors"
