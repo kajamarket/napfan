@@ -28,7 +28,7 @@ export const PrayerRequestSection: React.FC<PrayerRequestSectionProps> = ({
   };
 
   return (
-    <section id="prayer-request" className="py-20 md:py-28 px-6 bg-white">
+    <section id="prayer-request" className="hidden py-20 md:py-28 px-6 bg-white">
       <div className="max-w-4xl mx-auto">
         {/* Container: bg-[#F6E4CF] rounded-3xl p-8 md:p-12 border-l-4 border-[#321C04] */}
         <div className="bg-[#F6E4CF] rounded-3xl p-8 md:p-12 border-l-4 border-[#321C04] shadow-sm">
