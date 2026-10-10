@@ -34,7 +34,7 @@ export const Hero: React.FC<HeroProps> = () => {
           className="object-cover absolute inset-0 w-full h-full"
         >
           <source src={videoUrl} type="video/mp4" />
-          <source src="/videos/silhouette-of-christ-carrying-his-cross-18091.mp4" type="video/mp4" />
+          <source src="/videos/nsilhouette-of-christ-carrying-his-cross-18091.mp4" type="video/mp4" />
         </video>
       ) : (
         <img
