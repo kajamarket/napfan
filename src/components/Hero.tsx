@@ -28,7 +28,6 @@ export const Hero: React.FC<HeroProps> = () => {
         <video
           autoPlay
           muted
-          loop
           playsInline
           poster={fallbackImage}
           className="object-cover absolute inset-0 w-full h-full"
